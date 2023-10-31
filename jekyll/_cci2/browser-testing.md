@@ -10,7 +10,7 @@ contentTags:
   - Server v3.x
 ---
 
-[Preview Only] - This document describes common methods for running and debugging browser testing in your CircleCI config.
+This document describes common methods for running and debugging browser testing in your CircleCI config.
 
 ## Overview
 {: #overview }
